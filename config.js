@@ -1,11 +1,11 @@
 //=============『 Utama 』================== //
-global.owner = ['6281802626072'] 
-global.mods = ['6281802626072'] 
-global.prems = ['6281802626072'] 
+global.owner = ['62895324080019'] 
+global.mods = ['62895324080019'] 
+global.prems = ['62895324080019'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = '⫹⫺ Creator Bot ~'
-global.numberowner = '6281802626072'
+global.numberowner = '62895324080019'
 global.instagram = 'https://instagram.com/prm2.0'
 global.github = 'https://github.com/BOTCAHX'
 global.dana = ''
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://pin.it/1MVVNZH' //ganti jadi foto bot mu
 global.fotonya2 = 'https://pin.it/1MVVNZH' //ini juga ganti 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© R-TXZY-MD'
+global.wm = '©alyaxd'
 global.watermark = wm
-global.wm2 = '⫹⫺ R-TXZY-MD'
-global.wm3 = '© R-TXZY-MD'
+global.wm2 = '⫹⫺alyaxd'
+global.wm3 = '©alyaxd'
 global.wm4 = 'Ⓛ = Limit Ⓟ = Premium'
 global.htki = '––––––『' 
 global.htka = '』––––––'
