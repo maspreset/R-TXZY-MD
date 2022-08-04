@@ -8,8 +8,8 @@ global.nameowner = '⫹⫺ Creator Bot ~'
 global.numberowner = '62895324080019'
 global.instagram = 'https://instagram.com/prm2.0'
 global.github = 'https://github.com/BOTCAHX'
-global.dana = ''
-global.pulsa = ''
+global.dana = '62895324080019'
+global.pulsa = '62895324080019'
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
