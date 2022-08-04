@@ -13,7 +13,7 @@ global.pulsa = '62895324080019'
 global.gopay = ''
 
 //=============『 Info Bot 』=================//
-global.namebot = 'alya'
+global.namebot = 'ᵃˡʸᵃ'
 global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
 global.web = 'https://github.com/BOTCAHX' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
@@ -23,10 +23,10 @@ global.fotonya1 = 'https://telegra.ph/file/4637101da58e21976363b.jpg' //ganti ja
 global.fotonya2 = 'https://telegra.ph/file/4637101da58e21976363b.jpg' //ini juga ganti 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '©alyaxd'
+global.wm = '©ᵃˡʸᵃ'
 global.watermark = wm
-global.wm2 = '⫹⫺alyaxd'
-global.wm3 = '©alyaxd'
+global.wm2 = '⫹⫺ ᵃˡʸᵃ'
+global.wm3 = '©ᵃˡʸᵃ'
 global.wm4 = 'Ⓛ = Limit Ⓟ = Premium'
 global.htki = '––––––『' 
 global.htka = '』––––––'
